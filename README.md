@@ -16,9 +16,8 @@
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
-    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>关于</b></td>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>关于</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
   </tr>
 </table>
 
@@ -32,9 +31,8 @@
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
-    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>技能</b></td>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>技能</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
   </tr>
 </table>
 
@@ -90,9 +88,8 @@
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
-    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>最近在写</b></td>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>最近在写</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
   </tr>
 </table>
 
@@ -105,9 +102,8 @@
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
-    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>贡献</b></td>
-    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>贡献</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
   </tr>
 </table>
 
