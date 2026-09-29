@@ -20,7 +20,7 @@ jobs:
         with:
           feed_list: "https://blog.csdn.net/qq_74182308/rss/list"
           max_post_count: 5
-          template: "- [$title]($url) · `$date`"
+          template: "- [$title]($url) · `$date`$newline"
           date_format: "yyyy-mm-dd"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
