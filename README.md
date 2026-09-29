@@ -11,7 +11,6 @@
   <a href="https://blog.csdn.net/qq_74182308"><img src="https://img.shields.io/badge/Blog-CSDN-2c5f5d?style=flat-square&logo=c&logoColor=white" alt="Blog"></a>
   <a href="https://github.com/wh1tZz5"><img src="https://img.shields.io/badge/GitHub-wh1tZz5-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/邮箱-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=wh1tZz5.wh1tZz5&left_color=2c5f5d&right_color=gray" alt="visitors" />
 </p>
 
 ---
@@ -87,4 +86,4 @@
 
 ---
 
-<p align="center"><sub>保持好奇，保持热爱。</sub></p>
+<p align="center">✦ 保持好奇，保持热爱 ✦</p>
