@@ -1,7 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,60:2c5f5d,100:39c5bb&height=160&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=39c5bb&strokeWidth=2" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&fontSize=18&fontColor=39c5bb&stroke=1a1a1a&strokeWidth=1" />
+<div style="position: relative; display: inline-block; text-align: center;">
+  <!-- 1. 你的capsule-render图片 -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,60:2c5f5d,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
+  <!-- 2. 用CSS描边的手动叠加层 -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; pointer-events: none;">
+    <!-- 主标题 'wh1tZz5' 在 capsule-render 中已包含，这里我们只叠加描述文字 -->
+    <!-- 为了让文字位置和图片中的 'wh1tZz5' 对齐，可以在这里添加一个不可见的主标题占位，或者手动调整描述文字的 padding-top -->
+    <p style="font-size: 20px; font-weight: bold; color: #ffffff; -webkit-text-stroke: 1px #39c5bb; margin: 0; padding-top: 60px; /* 通过 padding 微调描述文字的位置 */">
+        网络安全方向 · 渗透测试 | 安全服务 | CTF
+    </p>
+  </div>
+</div>
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2C5F5D&center=true&vCenter=true&width=600&lines=Web+%7C+Pwn+%7C+Reverse+%7C+Crypto+%7C+Misc+%7C+OSINT;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
   </a>
