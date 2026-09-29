@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,7 +20,3 @@ jobs:
         with:
           feed_list: "https://blog.csdn.net/qq_74182308/rss/list"
           max_post_count: 5
-          template: "- [$title]($url)"
-          date_format: "yyyy-mm-dd"
-          committer_username: "github-actions[bot]"
-          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
