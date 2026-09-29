@@ -1,15 +1,5 @@
 <p align="center">
-  <picture>
-    <!-- 深色主题：深灰 → 墨绿 → 青绿 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2c5f5d,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&descAlignY=62&descSize=16&descAlign=50" />
-    <!-- 浅色主题：稍微调亮，起始色不是纯深灰 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f5d,60:2ea89e,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&descAlignY=62&descSize=16&descAlign=50" />
-    <!-- 兜底：不支持 picture 的浏览器 -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2c5f5d,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&descAlignY=62&descSize=16&descAlign=50" />
-  </picture>
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=wh1tZz5&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&descAlignY=62&descSize=16&descAlign=50" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2C5F5D&center=true&vCenter=true&width=600&lines=Web+%7C+Pwn+%7C+Reverse+%7C+Crypto+%7C+Misc+%7C+OSINT;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
   </a>
