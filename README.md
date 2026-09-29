@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=网络安全%20·%20渗透测试%20·%20CTF&descAlignY=58&descSize=16&descAlign=50" />
-</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5F5D&center=true&vCenter=true&width=500&lines=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8+%C2%B7+%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95+%C2%B7+CTF;%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2C5F5D&center=true&vCenter=true&width=600&lines=Web+%7C+Pwn+%7C+Reverse+%7C+Crypto+%7C+Misc+%7C+OSINT;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
   </a>
 </p>
 
