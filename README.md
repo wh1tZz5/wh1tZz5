@@ -76,6 +76,13 @@
 
 ---
 
+### 最新文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 贡献
 
 <picture>
