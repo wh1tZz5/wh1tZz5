@@ -14,12 +14,9 @@
 
 <br>
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>关于</b></td>
-    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/divider-about.svg" alt="关于" />
+</p>
 
 <p align="center">
   主要方向：<b>Web 安全</b> | <b>内网渗透</b> | <b>权限提升</b> | <b>代码审计</b><br>
@@ -29,12 +26,9 @@
 
 <br>
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>技能</b></td>
-    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/divider-skills.svg" alt="技能" />
+</p>
 
 <p align="center"><b>渗透与漏洞</b></p>
 
@@ -86,12 +80,9 @@
 
 <br>
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>最近在写</b></td>
-    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/divider-blog.svg" alt="最近在写" />
+</p>
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-计算机网络基础</a> <code>2026-01-23</code><br>
@@ -100,12 +91,9 @@
 
 <br>
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>贡献</b></td>
-    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/divider-contrib.svg" alt="贡献" />
+</p>
 
 <p align="center">
   <picture>
