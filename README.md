@@ -21,7 +21,7 @@
 <p align="center">
   主要方向：<b>Web 安全</b> | <b>内网渗透</b> | <b>权限提升</b> | <b>代码审计</b><br>
   <b>红队</b> | <b>蓝队</b> 实战经历<br>
-  <a href="https://wh1tZz5.github.io">个人博客</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
+  <a href="https://wh1tZz5.github.io">个人主页</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
 </p>
 
 <br>
