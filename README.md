@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,60:2c5f5d,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=...&descAlignY=62&descSize=16&descAlign=50&stroke=39c5bb&strokeWidth=2#gh-dark-mode-only" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,60:e0e0e0,100:f0f0f0&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=1a1a1a&animation=fadeIn&fontAlignY=40&desc=...&descAlignY=62&descSize=16&descAlign=50&stroke=2c5f5d&strokeWidth=1#gh-light-mode-only" />
+  <picture>
+    <!-- 深色主题：背景深，字白，青绿描边 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&amp;color=0:1a1a1a,60:2c5f5d,100:39c5bb&amp;height=200&amp;section=header&amp;text=wh1tZz5&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&amp;descAlignY=62&amp;descSize=16&amp;descAlign=50&amp;stroke=39c5bb&amp;strokeWidth=2">
+    
+    <!-- 浅色主题：背景浅，字黑，墨绿描边 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&amp;color=0:ffffff,60:e0e0e0,100:f0f0f0&amp;height=200&amp;section=header&amp;text=wh1tZz5&amp;fontSize=70&amp;fontColor=1a1a1a&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&amp;descAlignY=62&amp;descSize=16&amp;descAlign=50&amp;stroke=2c5f5d&amp;strokeWidth=1">
+    
+    <!-- 兜底：不支持 picture 时显示（深色版） -->
+    <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:1a1a1a,60:2c5f5d,100:39c5bb&amp;height=200&amp;section=header&amp;text=wh1tZz5&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&amp;descAlignY=62&amp;descSize=16&amp;descAlign=50&amp;stroke=39c5bb&amp;strokeWidth=2" alt="wh1tZz5">
+  </picture>
 
 
 
