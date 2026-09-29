@@ -78,7 +78,10 @@
 
 ### 最新文章
 
-<!-- BLOG-POST-LIST:START -->- [Day02-计算机网络基础](https://blog.csdn.net/qq_74182308/article/details/157296727)- [Day01-计算机应用基础](https://blog.csdn.net/qq_74182308/article/details/157296147)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Day02-计算机网络基础](https://blog.csdn.net/qq_74182308/article/details/157296727)
+- [Day01-计算机应用基础](https://blog.csdn.net/qq_74182308/article/details/157296147)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
