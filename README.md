@@ -87,12 +87,4 @@
 
 ---
 
-### 3D 贡献
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" />
-</p>
-
----
-
 <p align="center"><sub>保持好奇，保持热爱。</sub></p>
