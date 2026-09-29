@@ -12,9 +12,15 @@
   <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/邮箱-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 关于
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>关于</b></td>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center">
   主要方向：<b>Web 安全</b> | <b>内网渗透</b> | <b>权限提升</b> | <b>代码审计</b><br>
@@ -22,9 +28,15 @@
   <a href="https://wh1tZz5.github.io">个人博客</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 技能
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>技能</b></td>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center"><b>渗透与漏洞</b></p>
 
@@ -74,18 +86,30 @@
   <img src="https://img.shields.io/badge/应急响应-2c5f5d?style=flat-square" />
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 最近在写
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>最近在写</b></td>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-计算机网络基础</a> <code>2026-01-23</code><br>
   <a href="https://blog.csdn.net/qq_74182308/article/details/157296147">Day01-计算机应用基础</a> <code>2026-01-23</code>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 贡献
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to left, #2c5f5d, transparent); margin: 0;"></td>
+    <td style="border: none; padding: 0 16px; white-space: nowrap;"><b>贡献</b></td>
+    <td style="border: none; width: 45%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
@@ -95,6 +119,6 @@
   </picture>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
 <p align="center">— 保持好奇，保持热爱 —</p>
