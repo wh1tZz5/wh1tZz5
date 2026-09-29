@@ -1,11 +1,11 @@
 <p align="center">
-  <b>简体中文</b> | <a href="README_en.md">English</a>
+  <a href="README.md">简体中文</a> | <b>English</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,60:2c5f5d,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=f5f0e8&animation=fadeIn&fontAlignY=40&desc=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B9%E5%90%91%20%C2%B7%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%20%7C%20%E5%AE%89%E5%85%A8%E6%9C%8D%E5%8A%A1%20%7C%20CTF&descAlignY=62&descSize=16&descAlign=50&stroke=39c5bb&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,60:2c5f5d,100:39c5bb&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=f5f0e8&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%C2%B7%20Penetration%20Testing%20%7C%20Security%20Services%20%7C%20CTF&descAlignY=62&descSize=16&descAlign=50&stroke=39c5bb&strokeWidth=2" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2C5F5D&center=true&vCenter=true&width=600&lines=Web+%7C+Pwn+%7C+Reverse+%7C+Crypto+%7C+Misc+%7C+OSINT;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2C5F5D&center=true&vCenter=true&width=600&lines=Web+%7C+Pwn+%7C+Reverse+%7C+Crypto+%7C+Misc+%7C+OSINT;Keep+learning%2C+stay+passionate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,39 +13,39 @@
   <a href="https://wh1tZz5.github.io"><img src="https://img.shields.io/badge/Home-wh1tZz5.github.io-2c5f5d?style=flat-square&logo=githubpages&logoColor=white" alt="Home"></a>
   <a href="https://blog.csdn.net/qq_74182308"><img src="https://img.shields.io/badge/Blog-CSDN-2c5f5d?style=flat-square&logo=c&logoColor=white" alt="Blog"></a>
   <a href="https://github.com/wh1tZz5"><img src="https://img.shields.io/badge/GitHub-wh1tZz5-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/邮箱-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/Email-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/zh/divider-about.svg" alt="关于" />
+  <img src="assets/en/divider-about-en.svg" alt="About" />
 </p>
 
 <p align="center">
-  主要方向：<b>Web 安全</b> | <b>内网渗透</b> | <b>权限提升</b> | <b>代码审计</b><br>
-  <b>红队</b> | <b>蓝队</b> 实战经历<br>
-  <a href="https://wh1tZz5.github.io">个人主页</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
+  Main Focus: <b>Web Security</b> | <b>Internal Network Pentest</b> | <b>Privilege Escalation</b> | <b>Code Audit</b><br>
+  <b>Red Team</b> | <b>Blue Team</b> hands-on experience<br>
+  <a href="https://wh1tZz5.github.io">Personal Blog</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/zh/divider-skills.svg" alt="技能" />
+  <img src="assets/en/divider-skills-en.svg" alt="Skills" />
 </p>
 
-<p align="center"><b>渗透与漏洞</b></p>
+<p align="center"><b>Penetration & Vulnerabilities</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL注入-CC2927?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/内网渗透-2c5f5d?style=flat-square" />
-  <img src="https://img.shields.io/badge/权限提升-2c5f5d?style=flat-square" />
-  <img src="https://img.shields.io/badge/代码审计-2c5f5d?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL_Injection-CC2927?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internal_Network_Pentest-2c5f5d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Privilege_Escalation-2c5f5d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code_Audit-2c5f5d?style=flat-square" />
   <img src="https://img.shields.io/badge/Webshell-2c5f5d?style=flat-square" />
 </p>
 
-<p align="center"><b>工具</b></p>
+<p align="center"><b>Tools</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Fscan-2c5f5d?style=flat-square" />
 </p>
 
-<p align="center"><b>语言与基础设施</b></p>
+<p align="center"><b>Languages & Infrastructure</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -72,31 +72,31 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<p align="center"><b>安全运营与防御</b></p>
+<p align="center"><b>Security Operations & Defense</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WAF-2c5f5d?style=flat-square" />
   <img src="https://img.shields.io/badge/IDS/IPS-2c5f5d?style=flat-square" />
-  <img src="https://img.shields.io/badge/态势感知-2c5f5d?style=flat-square" />
-  <img src="https://img.shields.io/badge/威胁情报-2c5f5d?style=flat-square" />
-  <img src="https://img.shields.io/badge/应急响应-2c5f5d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Situational_Awareness-2c5f5d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-2c5f5d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident_Response-2c5f5d?style=flat-square" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/zh/divider-blog.svg" alt="最近在写" />
+  <img src="assets/en/divider-blog-en.svg" alt="Recent Posts" />
 </p>
 
 <p align="center">
-  <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-计算机网络基础</a> <code>2026-01-23</code><br>
-  <a href="https://blog.csdn.net/qq_74182308/article/details/157296147">Day01-计算机应用基础</a> <code>2026-01-23</code>
+  <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-Computer Networking Basics</a> <code>2026-01-23</code><br>
+  <a href="https://blog.csdn.net/qq_74182308/article/details/157296147">Day01-Computer Fundamentals</a> <code>2026-01-23</code>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/zh/divider-contrib.svg" alt="贡献" />
+  <img src="assets/en/divider-contrib-en.svg" alt="Contributions" />
 </p>
 
 <p align="center">
@@ -109,4 +109,4 @@
 
 <br>
 
-<p align="center">— 保持好奇，保持热爱 —</p>
+<p align="center">— Stay curious, stay passionate —</p>
