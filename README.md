@@ -74,8 +74,8 @@
 ### 统计
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wh1tZz5&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1tZz5&layout=compact&hide_border=true&theme=graywhite&langs_count=6" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 ---
