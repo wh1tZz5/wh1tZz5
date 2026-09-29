@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=网络安全%20·%20渗透测试%20·%20CTF&descAlignY=58&descSize=16&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2c5f5d&height=140&section=header&text=wh1tZz5&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5F5D&center=true&vCenter=true&width=500&lines=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8+%C2%B7+%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95+%C2%B7+CTF;%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
@@ -14,9 +15,14 @@
   <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/邮箱-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 关于
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>关于</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center">
   网络安全方向 · <b>渗透测试</b> | <b>安全服务</b> | <b>CTF</b><br>
@@ -25,9 +31,14 @@
   <a href="https://wh1tZz5.github.io">个人博客</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 技能
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>技能</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center"><b>渗透与漏洞</b></p>
 
@@ -77,18 +88,28 @@
   <img src="https://img.shields.io/badge/应急响应-2c5f5d?style=flat-square" />
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 最近在写
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>最近在写</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-计算机网络基础</a> <code>2026-01-23</code><br>
   <a href="https://blog.csdn.net/qq_74182308/article/details/157296147">Day01-计算机应用基础</a> <code>2026-01-23</code>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
-### 贡献
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; padding-right: 12px; white-space: nowrap;"><b>贡献</b></td>
+    <td style="border: none; width: 100%;"><hr style="border: none; height: 1px; background: linear-gradient(to right, #2c5f5d, transparent); margin: 0;"></td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
@@ -98,6 +119,6 @@
   </picture>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
+<br>
 
 <p align="center">— 保持好奇，保持热爱 —</p>
