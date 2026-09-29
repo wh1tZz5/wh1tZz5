@@ -1,11 +1,17 @@
 <h3 align="center">wh1tZz5</h3>
-<p align="center"><sub>网络安全 · 渗透测试 · CTF</sub></p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5F5D&center=true&vCenter=true&width=500&lines=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8+%C2%B7+%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95+%C2%B7+CTF;%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://wh1tZz5.github.io"><img src="https://img.shields.io/badge/Home-wh1tZz5.github.io-2c5f5d?style=flat-square&logo=githubpages&logoColor=white" alt="Home"></a>
   <a href="https://blog.csdn.net/qq_74182308"><img src="https://img.shields.io/badge/Blog-CSDN-2c5f5d?style=flat-square&logo=c&logoColor=white" alt="Blog"></a>
   <a href="https://github.com/wh1tZz5"><img src="https://img.shields.io/badge/GitHub-wh1tZz5-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/邮箱-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=wh1tZz5.wh1tZz5&left_color=2c5f5d&right_color=gray" alt="visitors" />
 </p>
 
 ---
@@ -13,7 +19,7 @@
 ### 关于
 
 - 网络安全方向 · **渗透测试** | **安全服务** | **CTF**
-- 关注 **Web 安全 / 内网渗透 / 权限提升 / 代码审计**
+- 主要方向：**Web 安全 / 内网渗透 / 权限提升 / 代码审计**
 - 有过 **红队** 与 **蓝队** 实战经历
 - [个人博客](https://wh1tZz5.github.io) | [CSDN](https://blog.csdn.net/qq_74182308)
 
@@ -71,11 +77,20 @@
 
 ---
 
-### 统计
+### 贡献
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 3D 贡献
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="./profile/top-langs.svg" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
