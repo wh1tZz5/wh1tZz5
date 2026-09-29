@@ -1,5 +1,7 @@
 <h3 align="center">wh1tZz5</h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=wh1tZz5&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=网络安全%20·%20渗透测试%20·%20CTF&descAlignY=58&descSize=16&descAlign=50" />
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5F5D&center=true&vCenter=true&width=500&lines=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8+%C2%B7+%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95+%C2%B7+CTF;%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%EF%BC%8C%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1" alt="Typing SVG" />
@@ -13,22 +15,24 @@
   <a href="mailto:wh1tzz5@qq.com"><img src="https://img.shields.io/badge/邮箱-wh1tzz5@qq.com-2c5f5d?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
 
 ### 关于
 
-- 网络安全方向 · **渗透测试** | **安全服务** | **CTF**
-- 主要方向：**Web 安全** | **内网渗透** | **权限提升** | **代码审计**
-- **红队** | **蓝队** 实战经历
-- [个人博客](https://wh1tZz5.github.io) | [CSDN](https://blog.csdn.net/qq_74182308)
+<p align="center">
+  网络安全方向 · <b>渗透测试</b> | <b>安全服务</b> | <b>CTF</b><br>
+  主要方向：<b>Web 安全</b> | <b>内网渗透</b> | <b>权限提升</b> | <b>代码审计</b><br>
+  <b>红队</b> | <b>蓝队</b> 实战经历<br>
+  <a href="https://wh1tZz5.github.io">个人博客</a> | <a href="https://blog.csdn.net/qq_74182308">CSDN</a>
+</p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
 
 ### 技能
 
-**渗透与漏洞**
+<p align="center"><b>渗透与漏洞</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/SQL注入-CC2927?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/内网渗透-2c5f5d?style=flat-square" />
@@ -37,9 +41,9 @@
   <img src="https://img.shields.io/badge/Webshell-2c5f5d?style=flat-square" />
 </p>
 
-**工具**
+<p align="center"><b>工具</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Yakit-1B1B1B?style=flat-square&logo=yaklang&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLMap-000000?style=flat-square" />
@@ -51,9 +55,9 @@
   <img src="https://img.shields.io/badge/Fscan-2c5f5d?style=flat-square" />
 </p>
 
-**语言与基础设施**
+<p align="center"><b>语言与基础设施</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -64,9 +68,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-**安全运营与防御**
+<p align="center"><b>安全运营与防御</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/WAF-2c5f5d?style=flat-square" />
   <img src="https://img.shields.io/badge/IDS/IPS-2c5f5d?style=flat-square" />
   <img src="https://img.shields.io/badge/态势感知-2c5f5d?style=flat-square" />
@@ -74,24 +78,27 @@
   <img src="https://img.shields.io/badge/应急响应-2c5f5d?style=flat-square" />
 </p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
 
 ### 最近在写
 
-<!-- BLOG-POST-LIST:START -->
-- [Day02-计算机网络基础](https://blog.csdn.net/qq_74182308/article/details/157296727) · `2026-01-23`
-- [Day01-计算机应用基础](https://blog.csdn.net/qq_74182308/article/details/157296147) · `2026-01-23`<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-计算机网络基础</a> <code>2026-01-23</code><br>
+  <a href="https://blog.csdn.net/qq_74182308/article/details/157296147">Day01-计算机应用基础</a> <code>2026-01-23</code>
+</p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
 
 ### 贡献
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wh1tZz5/wh1tZz5/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
----
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2c5f5d, transparent); margin: 28px 0;">
 
 <p align="center">— 保持好奇，保持热爱 —</p>
