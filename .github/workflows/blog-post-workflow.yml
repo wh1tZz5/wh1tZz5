@@ -22,5 +22,6 @@ jobs:
           max_post_count: 5
           template: '  <a href="$url">$title</a> <code>$date</code><br>$newline'
           date_format: "yyyy-mm-dd"
+          readme_path: "./README.md,./README_en.md" 
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
