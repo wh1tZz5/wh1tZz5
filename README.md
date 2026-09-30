@@ -89,8 +89,8 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.csdn.net/qq_74182308/article/details/157296727">Day02-计算机网络基础</a> <code>2026-01-23</code><br>
-  <a href="https://blog.csdn.net/qq_74182308/article/details/157296147">Day01-计算机应用基础</a> <code>2026-01-23</code>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </p>
 
 <br>
